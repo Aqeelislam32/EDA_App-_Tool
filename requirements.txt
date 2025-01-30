@@ -1,8 +1,7 @@
-numpy
+# requirements.txt
+streamlit 
 pandas
-streamlit
-ydata_profiling
-streamlit_pandas_profiling
-pkg_resources
-google-generativeai
-pypdf
+numpy
+ydata-profiling
+streamlit-pandas-profiling
+Jinja2  # Template engine dependency
