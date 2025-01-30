@@ -4,5 +4,5 @@ streamlit
 ydata_profiling
 streamlit_pandas_profiling
 pkg_resources
-google-generativeai==0.3.0
-pip install --upgrade pip
+google-generativeai
+pypdf
