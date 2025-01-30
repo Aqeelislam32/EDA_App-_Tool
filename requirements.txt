@@ -1,7 +1,9 @@
-# requirements.txt
-streamlit 
+streamlit
 pandas
 numpy
-ydata-profiling
+pandas-profiling 
 streamlit-pandas-profiling
-Jinja2  # Template engine dependency
+matplotlib 
+seaborn  
+Jinja2     
+htmlmin
